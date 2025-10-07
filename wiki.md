@@ -31,6 +31,6 @@ One or several paragraphs for subsection 3.
 - [Cardigan Welsh Corgi](https://www.akc.org/dog-breeds/cardigan-welsh-corgi/)
 
 ## References
-1. Reference 1
-2. Reference 2
-3. Reference 3
+1. Wikipedia. (2025). *Welsh Corgi*. Available at: https://en.wikipedia.org/wiki/Welsh_Corgi (Accessed: 7 October 2025).
+2. American Kennel Club. (2025). *Pembroke Welsh Corgi*. Available at: https://www.akc.org/dog-breeds/pembroke-welsh-corgi/ (Accessed: 7 October 2025).
+3. American Kennel Club. (2025). *Cardigan Welsh Corgi*. Available at: https://www.akc.org/dog-breeds/cardigan-welsh-corgi/ (Accessed: 7 October 2025).
