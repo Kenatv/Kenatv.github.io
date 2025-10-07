@@ -21,7 +21,7 @@ One or several paragraphs for subsection 3.
 
 ## See also
 - [Resource 1](https://en.wikipedia.org/wiki/Welsh_Corgi)
-- [Resource 2](url)
+- [Resource 2](https://www.akc.org/dog-breeds/pembroke-welsh-corgi/)
 - [Resource 3](url)
 
 ## References
