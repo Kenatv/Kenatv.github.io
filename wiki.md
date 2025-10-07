@@ -25,10 +25,10 @@ The Cardigan is in general a very healthy breed, and responsible breeders  will 
 ## Section 3
 One or several paragraphs for subsection 3.
 
-## See also
-- [Resource 1](https://en.wikipedia.org/wiki/Welsh_Corgi)
-- [Resource 2](https://www.akc.org/dog-breeds/pembroke-welsh-corgi/)
-- [Resource 3](url)
+## Sources
+- [General Information](https://en.wikipedia.org/wiki/Welsh_Corgi)
+- [Pembroke Welsh Corgi](https://www.akc.org/dog-breeds/pembroke-welsh-corgi/)
+- [Cardigan Welsh Corgi](https://www.akc.org/dog-breeds/cardigan-welsh-corgi/)
 
 ## References
 1. Reference 1
