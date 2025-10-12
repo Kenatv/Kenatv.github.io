@@ -22,8 +22,9 @@ The Cardigan Welsh Corgi is a masterpiece of the breeder's art: Every aspect of 
 
 The Cardigan is in general a very healthy breed, and responsible breeders  will screen their stock for health conditions such as hip dysplasia, progressive retinal atrophy (PRA), and degenerative myelopathy. And as with any 'long and low' canine, one must be cognizant of potential back issues. Avoid letting the Cardigan jump down off the bed or couch, and stairs can also be a hazard. At the first sign of any distress or discomfort, see the vet right away. The sooner a problem is caught, the quicker the recovery.
 
-## Section 3
-One or several paragraphs for subsection 3.
+## Conclusion
+
+In conclusion, both the Pembroke and Cardigan Welsh Corgis make wonderful companions for families and individuals alike. Though they differ slightly in appearance and temperament, both breeds share the same loyal, intelligent, and affectionate nature that has made Corgis beloved around the world. Their small size, combined with big personalities, makes them adaptable to various lifestyles—from energetic outdoor adventures to cozy indoor living. With proper care, regular exercise, and consistent training, Corgis can thrive as healthy, happy pets that bring endless joy and companionship to their owners.
 
 ## Sources
 - [General Information](https://en.wikipedia.org/wiki/Welsh_Corgi)
