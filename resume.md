@@ -28,4 +28,8 @@ University of Washington - Data Science Project
 • Applied statistical modeling to evaluate human-wildlife interaction factors.
 • Selected as top 3 projects out of 50 submissions.
 
-
+- Client-Side Image Sharing App
+Front-End Web Development
+• Developed a responsive web app that allows users to upload, view, and comment on shared images using HTML and CSS.
+• Implemented user-friendly interface design with intuitive layout and styling for a seamless user experience.
+• Focused on front-end architecture, layout design, and client-side interactivity.
