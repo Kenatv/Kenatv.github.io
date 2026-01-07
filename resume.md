@@ -18,12 +18,12 @@ Data science student with strong skills in R, Python, and GIS tools. Experienced
 
 ## Education
 
-* University of Washington
+### University of Washington
 
-### Undergraduate in Geography Data Science 
+#### Undergraduate in Geography Data Science 
 
-#### Bear Attack Analysis in North America
 <li>
+Bear Attack Analysis in North America
 University of Washington - Data Science Project
 <br>
 • Conducted spatial and temporal analysis of bear attacks across North America using R and publicly available datasets.
