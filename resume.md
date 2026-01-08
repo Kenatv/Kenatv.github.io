@@ -1,16 +1,16 @@
 # Ken Thuleeratanarom
 
 athule@uw.edu
-<br>
+
 [LinkedIn](https://www.linkedin.com/in/attavit-thuleeratanarom-844a37367/)
   
 [University of Washington](https://www.washington.edu/)
 
-# Summary
+## Summary
 
 Data science student with strong skills in R, Python, and GIS tools. Experienced in collaborative research, web development, and spatial analytics. Adept at turning data into actionable insights through interactive visualizations.
 
-# Work Experience (Last 10 Years)
+## Work Experience (Last 10 Years)
 
 <li> Unite UW Facilitator
 
@@ -18,7 +18,7 @@ Data science student with strong skills in R, Python, and GIS tools. Experienced
 
 <li> SC Gold Stocks Manager
 
-# Education
+## Education
 
 ***University of Washington*** 
 
