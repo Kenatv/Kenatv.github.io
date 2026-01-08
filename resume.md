@@ -18,7 +18,7 @@ Data science student with strong skills in R, Python, and GIS tools. Experienced
 
 # Education
 
-## University of Washington
+***University of Washington*** 
 
 ### Undergraduate in Geography Data Science 
 
