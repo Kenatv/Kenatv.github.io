@@ -2,9 +2,9 @@
 
 athule@uw.edu
 <br>
-<link> [LinkedIn](https://www.linkedin.com/in/attavit-thuleeratanarom-844a37367/)
-<br>
-<link> [University of Washington](https://www.washington.edu/)
+[LinkedIn](https://www.linkedin.com/in/attavit-thuleeratanarom-844a37367/)
+  
+[University of Washington](https://www.washington.edu/)
 
 # Summary
 
