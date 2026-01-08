@@ -16,29 +16,28 @@ Data science student with strong skills in R, Python, and GIS tools. Experienced
 
 - SC Gold Stocks Manager
 
-> Education
+# Education
 
-### University of Washington
+## University of Washington
 
-#### Undergraduate in Geography Data Science 
+### Undergraduate in Geography Data Science 
 
-<li>
-Bear Attack Analysis in North America
+#### Bear Attack Analysis in North America
 University of Washington - Data Science Project
-<br>
-• Conducted spatial and temporal analysis of bear attacks across North America using R and publicly available datasets.
-<br>
-• Visualized trends by location, seasonality, and species to identify high-risk regions and potential causes.
-<br>
-• Applied statistical modeling to evaluate human-wildlife interaction factors.
-<br>
-• Selected as top 3 projects out of 50 submissions.
+<li>
+Conducted spatial and temporal analysis of bear attacks across North America using R and publicly available datasets.
+<li>
+Visualized trends by location, seasonality, and species to identify high-risk regions and potential causes.
+<li>
+Applied statistical modeling to evaluate human-wildlife interaction factors.
+<li>
+Selected as top 3 projects out of 50 submissions.
 
-<li> Client-Side Image Sharing App
+#### Client-Side Image Sharing App
 Front-End Web Development
-<br>
-• Developed a responsive web app that allows users to upload, view, and comment on shared images using HTML and CSS.
-<br>
-• Implemented user-friendly interface design with intuitive layout and styling for a seamless user experience.
-<br>
-• Focused on front-end architecture, layout design, and client-side interactivity.
+<li>
+Developed a responsive web app that allows users to upload, view, and comment on shared images using HTML and CSS.
+<li>
+Implemented user-friendly interface design with intuitive layout and styling for a seamless user experience.
+<li>
+Focused on front-end architecture, layout design, and client-side interactivity.
