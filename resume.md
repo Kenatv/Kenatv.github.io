@@ -2,7 +2,7 @@
 
 athule@uw.edu
 <br>
-https://www.linkedin.com/in/attavit-thuleeratanarom-844a37367/
+<link> https://www.linkedin.com/in/attavit-thuleeratanarom-844a37367/
 
 # Summary
 
@@ -16,7 +16,7 @@ Data science student with strong skills in R, Python, and GIS tools. Experienced
 
 - SC Gold Stocks Manager
 
-## Education
+> Education
 
 ### University of Washington
 
