@@ -12,11 +12,11 @@ Data science student with strong skills in R, Python, and GIS tools. Experienced
 
 ## Work Experience (Last 10 Years)
 
-<li> Unite UW Facilitator
+- Unite UW Facilitator
 
-<li> Thai Student Association Vice President
+- Thai Student Association Vice President
 
-<li> SC Gold Stocks Manager
+- SC Gold Stocks Manager
 
 ## Education
 
